@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/data-infographic-generator",
+  "version": "1.0.0",
+  "description": "Generate data-rich comparison infographics (9:16 mobile or 16:9 landscape) with verified research data. Used for AI model comparisons, product specs, pricing tables, and any structured data presentation.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

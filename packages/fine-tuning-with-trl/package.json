@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/fine-tuning-with-trl",
+  "version": "1.0.0",
+  "description": "TRL: SFT, DPO, PPO, GRPO, reward modeling for LLM RLHF.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

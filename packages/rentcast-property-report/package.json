@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/rentcast-property-report",
+  "version": "1.0.0",
+  "description": "rentcast-property-report lets the user generate a structured property report with useful real estate data such as ownership information, property characteristics, valuation signals, rent estimates, comps-related context, and market-facing details, giving them a sharper picture of a property's numbers and story before underwriting, marketing, or contacting the owner.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

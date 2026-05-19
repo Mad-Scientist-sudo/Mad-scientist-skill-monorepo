@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/video-transcribe-and-timestamp",
+  "version": "1.0.0",
+  "description": "video-transcribe-and-timestamp lets the user convert spoken video content into text with timestamps attached to the right moments, which is useful for editing, captioning, quote extraction, clip selection, summaries, training material, and finding exactly where key statements happen inside a longer recording.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/fal-ai-video-generation",
+  "version": "1.0.0",
+  "description": "Generate short-form AI videos (text-to-video) using fal.ai \u2014 Kling 1.6 and other models. Use when Charles asks for AI-generated video content, short-form clips, Reels, Shorts, or TikToks built from scratch without filming. FAL_KEY is available in /root/.openclaw/.openclaw/.env.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

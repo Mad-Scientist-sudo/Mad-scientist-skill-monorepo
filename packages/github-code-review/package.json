@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/github-code-review",
+  "version": "1.0.0",
+  "description": "Review PRs: diffs, inline comments via gh or REST.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

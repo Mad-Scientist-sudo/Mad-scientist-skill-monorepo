@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/melissa-data-information",
+  "version": "1.0.0",
+  "description": "melissa-data-information lets the user look up a single property address or process a CSV of multiple addresses to enrich them with Melissa Data property and ownership information, which is useful when they want to verify addresses, get property characteristics, or add structured property data to leads without manual research.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

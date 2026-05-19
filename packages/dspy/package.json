@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/dspy",
+  "version": "1.0.0",
+  "description": "DSPy: declarative LM programs, auto-optimize prompts, RAG.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

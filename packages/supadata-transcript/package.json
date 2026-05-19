@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/supadata-transcript",
+  "version": "1.0.0",
+  "description": "supadata-transcript lets the user pull transcript data from supported media sources so they can read, analyze, quote, summarize, repurpose, or mine spoken content without manually transcribing it, which is especially useful for turning videos, interviews, and recorded conversations into searchable text that can feed content creation or research workflows.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

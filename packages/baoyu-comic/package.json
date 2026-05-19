@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/baoyu-comic",
+  "version": "1.0.0",
+  "description": "Knowledge comics: educational, biography, tutorial.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

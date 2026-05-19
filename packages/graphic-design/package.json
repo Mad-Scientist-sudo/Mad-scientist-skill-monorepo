@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/graphic-design",
+  "version": "1.0.0",
+  "description": "Support design understanding from basic visuals to professional production and theory.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

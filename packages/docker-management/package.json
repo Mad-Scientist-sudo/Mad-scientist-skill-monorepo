@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/docker-management",
+  "version": "1.0.0",
+  "description": "Manage Docker containers, images, volumes, networks, and Compose stacks \u2014 lifecycle ops, debugging, cleanup, and Dockerfile optimization.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

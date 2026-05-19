@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/python-debugpy",
+  "version": "1.0.0",
+  "description": "Debug Python: pdb REPL + debugpy remote (DAP).",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

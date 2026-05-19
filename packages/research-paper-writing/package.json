@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/research-paper-writing",
+  "version": "1.0.0",
+  "description": "Write ML papers for NeurIPS/ICML/ICLR: design\u2192submit.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

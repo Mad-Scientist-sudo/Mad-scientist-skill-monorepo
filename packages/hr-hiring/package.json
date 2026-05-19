@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/hr-hiring",
+  "version": "1.0.0",
+  "description": "HR workflow for creating optimized Upwork job posts, saving them to Notion, and evaluating applicant files from Google Drive. Use this skill when the user wants to hire for a new role, post a job on Upwork, or evaluate candidates for a job.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

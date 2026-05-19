@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/notion-mastery",
+  "version": "1.0.0",
+  "description": "Build beautiful, well-organized Notion pages and databases \u2014 from a single meeting note to a full team wiki, CRM, OKR tracker, or project hub. Use this skill whenever the user mentions Notion, asks to create or update a Notion page or database, wants to design a workspace, build a template, sync content into Notion, or even hints at workflows like \"wiki\", \"team space\", \"project tracker\", \"second brain\", \"meeting notes hub\", \"PARA\", \"Zettelkasten\", \"company knowledge base\", or \"personal dashboard\" \u2014 even if they don't explicitly say \"Notion\". Also triggers on Notion API questions, block JSON, database schema design, property types, formula syntax, relations, rollups, and on requests to convert markdown or other documents into Notion. Designed to work in agents that consume the agentskills.io SKILL.md format (Anthropic, Hermes Agent, OpenClaw) whether they call the API via MCP, the official SDK, or raw HTTP.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

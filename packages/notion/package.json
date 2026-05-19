@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/notion",
+  "version": "1.0.0",
+  "description": "Notion API via curl: pages, databases, blocks, search.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/pdf-generation",
+  "version": "1.0.0",
+  "description": "pdf-generation lets the user create PDF documents from text, HTML, or structured data when weasyprint fails due to font subsetting bugs, using fpdf2 as a reliable fallback so they can still produce clean, usable PDFs for reports, invoices, or printed materials.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

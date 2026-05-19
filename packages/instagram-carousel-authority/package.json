@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/instagram-carousel-authority",
+  "version": "1.0.0",
+  "description": "instagram-carousel-authority lets the user turn a topic, offer, or business message into a strategic Instagram carousel built for reach, saves, shares, and authority-building, including the hook, slide structure, teaching angle, design direction, and caption strategy needed to make the post feel like a serious piece of content instead of random social filler.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

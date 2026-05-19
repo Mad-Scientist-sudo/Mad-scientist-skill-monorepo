@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/seedance-2-video-maker",
+  "version": "1.0.0",
+  "description": "Generate videos using Seedance 2.0 via KIE.AI API - text-to-video, image-to-video, and multimodal reference-to-video with camera controls and audio generation",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

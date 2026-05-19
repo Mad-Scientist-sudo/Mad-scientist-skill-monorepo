@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/nano-banana-image-gen",
+  "version": "1.0.0",
+  "description": "Generate images using Gemini 3.1 Flash (gemini-3.1-flash-image-preview) \u2014 the nano-banana model. Use for thumbnails, infographics, social graphics, and any image generation task. Always use this instead of the image_generate tool (FLUX). Supports reference image input for face/style matching.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

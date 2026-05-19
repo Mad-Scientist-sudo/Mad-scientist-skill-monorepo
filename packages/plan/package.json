@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/plan",
+  "version": "1.0.0",
+  "description": "Plan mode: write markdown plan to .hermes/plans/, no exec.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/gohighlevel-api",
+  "version": "1.0.0",
+  "description": "gohighlevel-api lets the user interact with their GoHighLevel CRM account programmatically using plain-language prompts, managing contacts, opportunities, appointments, conversations, workflows, payments, invoices, webhooks, social media posts, forms, surveys, users, and location settings, which is useful when they want to automate CRM tasks, sync leads, or build custom workflows without navigating the GHL UI manually.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

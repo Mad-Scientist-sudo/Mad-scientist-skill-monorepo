@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/nova-youtube-agent",
+  "version": "1.0.0",
+  "description": "nova-youtube-agent lets the user run YouTube-focused research and production tasks such as analyzing channel content, extracting insights from videos, helping shape video ideas, and supporting YouTube growth workflows, so they can move from raw video data or channel questions to usable strategy, summaries, and next-step content decisions faster.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

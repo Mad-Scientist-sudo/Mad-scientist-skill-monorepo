@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/gemini-image-editor",
+  "version": "1.0.0",
+  "description": "Edit, enhance, remove objects, change backgrounds, and transform images using Google AI Studio Gemini Nano Banana Pro (Imagen 3). Use when you need to edit existing images, remove backgrounds, swap objects, change lighting, add/remove elements, or apply artistic transformations.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

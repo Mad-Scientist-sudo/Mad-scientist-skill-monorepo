@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/content-repurposer",
+  "version": "1.0.0",
+  "description": "Content Repurposer lets the user transform existing content into multiple new formats, angles, and platform-specific assets, helping them stretch one original piece of content into a broader publishing system that can feed email, social, video clips, carousels, captions, and promotional material without starting from scratch each time.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

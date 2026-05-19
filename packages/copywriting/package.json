@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/copywriting",
+  "version": "1.0.0",
+  "description": "copywriting lets the user create clear, persuasive written content for sales pages, ads, emails, landing pages, offer descriptions, social posts, and follow-up messages, with messaging shaped to match the audience, goal, and platform so the final copy is not just polished, but built to get attention, generate response, and move people toward a specific action.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

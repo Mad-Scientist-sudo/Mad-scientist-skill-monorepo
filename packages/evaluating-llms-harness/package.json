@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/evaluating-llms-harness",
+  "version": "1.0.0",
+  "description": "lm-eval-harness: benchmark LLMs (MMLU, GSM8K, etc.).",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

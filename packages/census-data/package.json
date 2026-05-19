@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/census-data",
+  "version": "1.0.0",
+  "description": "Fetch demographic, economic, and population data from the U.S. Census Bureau API. Use this skill when you need population statistics, housing data, business patterns, income/poverty estimates, or any U.S. government statistical data at national, state, county, metro, tract, or block group levels.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

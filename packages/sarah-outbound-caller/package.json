@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/sarah-outbound-caller",
+  "version": "1.0.0",
+  "description": "sarah-outbound-caller lets the user deploy and manage Sarah, a VAPI-powered AI voice assistant that runs four distinct outbound call types \u2014 REI property acquisition, event reminders, community engagement, and agency outreach \u2014 with strict script isolation per campaign, which is useful when they want to automate calling campaigns, set up new call flows, or manage multi-vertical outreach without manual dialing.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

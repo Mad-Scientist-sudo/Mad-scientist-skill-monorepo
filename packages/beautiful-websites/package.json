@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/beautiful-websites",
+  "version": "1.0.0",
+  "description": "Find local businesses with outdated websites, redesign them with premium single-file HTML sites, and deploy them to Vercel. Use when the user wants to generate proof-of-work redesigns for outreach, create portfolio pieces from real business sites, or run the full pipeline (scrape \u2192 qualify \u2192 redesign \u2192 deploy) for a specific niche and city. Triggers on phrases like \"beautiful websites\", \"redesign local business sites\", \"run the pipeline for [niche] in [city]\", or any request to scrape, qualify, redesign, and deploy business websites.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

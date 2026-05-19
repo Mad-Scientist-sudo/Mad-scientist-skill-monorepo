@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/requesting-code-review",
+  "version": "1.0.0",
+  "description": "Pre-commit review: security scan, quality gates, auto-fix.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

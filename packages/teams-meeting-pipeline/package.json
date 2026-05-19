@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/teams-meeting-pipeline",
+  "version": "1.0.0",
+  "description": "Operate the Teams meeting summary pipeline via Hermes CLI \u2014 summarize meetings, inspect pipeline status, replay jobs, manage Microsoft Graph subscriptions.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

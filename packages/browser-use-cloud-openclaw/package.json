@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/browser-use-cloud-openclaw",
+  "version": "1.0.0",
+  "description": "Use Browser Use Cloud API v3 for managed AI browser automation, live browser sessions, screenshots, web research, form workflows, authentication profiles, file workspaces, and OpenClaw/Hermes browser tasks. Trigger whenever Charles asks Browser Use, cloud browser automation, web task agents, AI browser API, live browser preview, profile sync, or CDP stealth browser infrastructure.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

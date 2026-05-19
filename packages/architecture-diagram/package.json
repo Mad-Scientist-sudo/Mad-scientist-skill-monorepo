@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/architecture-diagram",
+  "version": "1.0.0",
+  "description": "Dark-themed SVG architecture/cloud/infra diagrams as HTML.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

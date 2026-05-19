@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/segment-anything-model",
+  "version": "1.0.0",
+  "description": "SAM: zero-shot image segmentation via points, boxes, masks.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

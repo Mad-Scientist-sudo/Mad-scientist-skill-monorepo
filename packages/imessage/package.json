@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/imessage",
+  "version": "1.0.0",
+  "description": "Send and receive iMessages/SMS via the imsg CLI on macOS.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

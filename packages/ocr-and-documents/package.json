@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/ocr-and-documents",
+  "version": "1.0.0",
+  "description": "Extract text from PDFs/scans (pymupdf, marker-pdf).",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

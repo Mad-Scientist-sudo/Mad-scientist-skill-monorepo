@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/openai-whisper-api",
+  "version": "1.0.0",
+  "description": "Transcribe audio via OpenAI Audio Transcriptions API (Whisper).",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

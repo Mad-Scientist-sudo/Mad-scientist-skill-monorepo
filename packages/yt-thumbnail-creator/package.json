@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/yt-thumbnail-creator",
+  "version": "1.0.0",
+  "description": "yt-thumbnail-creator lets the user create YouTube thumbnails designed to improve click-through rate by combining strong visual hierarchy, readable text, compelling composition, and topic-specific styling, so they can turn a video concept or title into a thumbnail that is built to compete in the feed instead of blending into it.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/homedepot-repair-estimator",
+  "version": "1.0.0",
+  "description": "homedepot-repair-estimator lets the user turn property photos plus basic room measurements into a contractor-style repair estimate that recommends specific Home Depot materials, calculates likely quantities, shows pricing, explains why each product was chosen, totals the material cost, and packages the result into a usable report for rehabs, buy-box decisions, or seller conversations.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

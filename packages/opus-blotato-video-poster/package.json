@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/opus-blotato-video-poster",
+  "version": "1.0.0",
+  "description": "opus-blotato-video-poster lets the user take video clips and push them through a posting workflow that connects clipping and distribution, so they can go from finished short-form video to published social content with less manual handling, especially when they want a more repeatable system for sending videos across multiple channels.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

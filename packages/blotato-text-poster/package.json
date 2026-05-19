@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/blotato-text-poster",
+  "version": "1.0.0",
+  "description": "blotato-text-poster lets the user publish text-based social content through Blotato, making it useful for pushing written posts, captions, short updates, promotional copy, or repurposed text assets out to connected social channels without having to manually open each platform and post them one by one.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@mad-scientist-skills/youtube-opus-skill",
+  "version": "1.0.0",
+  "description": "youtube-opus-skill lets the user take YouTube content and turn it into high-value short-form opportunities by extracting strong moments, shaping clips, and preparing content for wider distribution, making it useful when they want to squeeze more reach, engagement, and downstream content assets out of a longer YouTube video.",
+  "license": "UNLICENSED",
+  "files": [
+    "**/*"
+  ],
+  "scripts": {
+    "install": "echo 'Skill ready \u2014 no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill",
+    "mad-scientist"
+  ]
+}
