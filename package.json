@@ -1,14 +1,15 @@
 {
   "name": "mad-scientist-skill-monorepo",
   "version": "1.0.0",
-  "description": "Flat monorepo of standalone Mad Scientist agent skill packages.",
+  "description": "Category-organized monorepo of standalone Mad Scientist agent skill packages.",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "packages/*/*"
   ],
   "scripts": {
     "list": "pnpm -r list --depth 0",
-    "check:structure": "find packages -mindepth 1 -maxdepth 1 -type d | wc -l"
+    "check:structure": "find packages -name SKILL.md | wc -l"
   },
   "keywords": [
     "hermes",
