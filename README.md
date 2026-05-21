@@ -1,12 +1,12 @@
 # Mad Scientist Skill Monorepo
 
 <p align="center">
-  <strong>155 standalone Mad Scientist agent skills, organized into individually installable packages.</strong>
+  <strong>152 standalone Mad Scientist agent skills, organized into individually installable packages.</strong>
 </p>
 
 <p align="center">
-  <img alt="Skills" src="https://img.shields.io/badge/skills-155-111827?style=for-the-badge">
-  <img alt="Packages" src="https://img.shields.io/badge/packages-155-7c3aed?style=for-the-badge">
+  <img alt="Skills" src="https://img.shields.io/badge/skills-152-111827?style=for-the-badge">
+  <img alt="Packages" src="https://img.shields.io/badge/packages-152-7c3aed?style=for-the-badge">
   <img alt="Workspace" src="https://img.shields.io/badge/workspace-pnpm-2563eb?style=for-the-badge">
   <img alt="Layout" src="https://img.shields.io/badge/layout-categorized-059669?style=for-the-badge">
 </p>
@@ -15,29 +15,9 @@
 
 ## What This Is
 
-This repository is a category-organized monorepo of standalone `SKILL.md` packages. Most skills live under `packages/<category>/<skill-slug>/`, with a small set of legacy root packages under `packages/<skill-slug>/`.
+This repository is a client-ready monorepo of standalone `SKILL.md` packages. Most skills live under `packages/<category>/<skill-slug>/`, with a small set of root-level legacy packages under `packages/<skill-slug>`.
 
-Each package preserves the skill's instructions and supporting files such as scripts, references, examples, workflows, tests, templates, and assets.
-
-## Layout
-
-```text
-mad-scientist-skill-monorepo/
-  package.json
-  pnpm-workspace.yaml
-  packages/
-    09-media-lifestyle/
-      weather/
-        SKILL.md
-        package.json
-    15-data-research/
-      github-pr-workflow/
-        SKILL.md
-        package.json
-    watch/
-      SKILL.md
-      package.json
-```
+This cleaned edition removes communication/system-default package areas and renamed copies flagged during client review.
 
 ## Quick Start
 
@@ -48,20 +28,12 @@ pnpm install
 pnpm list
 ```
 
-Inspect one skill:
-
-```bash
-cd packages/09-media-lifestyle/weather
-sed -n '1,120p' SKILL.md
-```
-
 ## Package Index
 
 | Skill | Package |
 |---|---|
-| [`agent-browser`](./packages/14-devops/agent-browser) | `@mad-scientist-skills/agent-browser` |
+| [`Agent Browser`](./packages/14-devops/agent-browser) | `@mad-scientist-skills/agent-browser` |
 | [`agentmail`](./packages/11-email/agentmail) | `@mad-scientist-skills/agentmail` |
-| [`agentmail-productivity`](./packages/08-communication/agentmail-productivity) | `@mad-scientist-skills/agentmail-productivity` |
 | [`airtable`](./packages/13-productivity/airtable) | `@mad-scientist-skills/airtable` |
 | [`apify`](./packages/15-data-research/apify) | `@mad-scientist-skills/apify` |
 | [`apple-notes`](./packages/10-apple/apple-notes) | `@mad-scientist-skills/apple-notes` |
@@ -87,13 +59,12 @@ sed -n '1,120p' SKILL.md
 | [`codebase-inspection`](./packages/15-data-research/codebase-inspection) | `@mad-scientist-skills/codebase-inspection` |
 | [`codex`](./packages/17-ai-coding/codex) | `@mad-scientist-skills/codex` |
 | [`comfyui`](./packages/16-creative-ai/comfyui) | `@mad-scientist-skills/comfyui` |
-| [`content-repurposer`](./packages/18-social/content-repurposer) | `@mad-scientist-skills/content-repurposer` |
+| [`Content Repurposer`](./packages/18-social/content-repurposer) | `@mad-scientist-skills/content-repurposer` |
 | [`content-repurposing-engine`](./packages/18-social/content-repurposing-engine) | `@mad-scientist-skills/content-repurposing-engine` |
 | [`copywriting`](./packages/18-social/copywriting) | `@mad-scientist-skills/copywriting` |
 | [`daily-eod-report`](./packages/daily-eod-report) | `@mad-scientist-skills/daily-eod-report` |
 | [`data-infographic-generator`](./packages/16-creative-ai/data-infographic-generator) | `@mad-scientist-skills/data-infographic-generator` |
 | [`design-md`](./packages/16-creative-ai/design-md) | `@mad-scientist-skills/design-md` |
-| [`discord`](./packages/08-communication/discord) | `@mad-scientist-skills/discord` |
 | [`docker-management`](./packages/14-devops/docker-management) | `@mad-scientist-skills/docker-management` |
 | [`dspy`](./packages/12-mlops/dspy) | `@mad-scientist-skills/dspy` |
 | [`evaluating-llms-harness`](./packages/12-mlops/evaluating-llms-harness) | `@mad-scientist-skills/evaluating-llms-harness` |
@@ -116,7 +87,7 @@ sed -n '1,120p' SKILL.md
 | [`gohighlevel-api`](./packages/20-rei/gohighlevel-api) | `@mad-scientist-skills/gohighlevel-api` |
 | [`google-workspace`](./packages/13-productivity/google-workspace) | `@mad-scientist-skills/google-workspace` |
 | [`gpt-image-2`](./packages/18-social/gpt-image-2) | `@mad-scientist-skills/gpt-image-2` |
-| [`graphic-design`](./packages/07-image-graphics/graphic-design) | `@mad-scientist-skills/graphic-design` |
+| [`Graphic Design`](./packages/07-image-graphics/graphic-design) | `@mad-scientist-skills/graphic-design` |
 | [`grpo-rl-training`](./packages/12-mlops/grpo-rl-training) | `@mad-scientist-skills/grpo-rl-training` |
 | [`guidance`](./packages/12-mlops/guidance) | `@mad-scientist-skills/guidance` |
 | [`hermes-agent`](./packages/21-hermes/hermes-agent) | `@mad-scientist-skills/hermes-agent` |
@@ -205,7 +176,6 @@ sed -n '1,120p' SKILL.md
 | [`vercel-deploy`](./packages/14-devops/vercel-deploy) | `@mad-scientist-skills/vercel-deploy` |
 | [`vercel-site-deploy`](./packages/14-devops/vercel-site-deploy) | `@mad-scientist-skills/vercel-site-deploy` |
 | [`video-transcribe-and-timestamp`](./packages/18-social/video-transcribe-and-timestamp) | `@mad-scientist-skills/video-transcribe-and-timestamp` |
-| [`watch`](./packages/watch) | `@mad-scientist-skills/watch` |
 | [`weather`](./packages/09-media-lifestyle/weather) | `@mad-scientist-skills/weather` |
 | [`weights-and-biases`](./packages/12-mlops/weights-and-biases) | `@mad-scientist-skills/weights-and-biases` |
 | [`whisper`](./packages/17-ai-coding/whisper) | `@mad-scientist-skills/whisper` |
@@ -220,7 +190,7 @@ sed -n '1,120p' SKILL.md
 - Each package contains exactly one top-level `SKILL.md`.
 - Package names use the `@mad-scientist-skills/` scope.
 - Live secrets must stay in local `.env` files and out of git.
-- Generated cache files such as `__pycache__` and `*.pyc` are ignored.
+- Do not re-add system/default skills removed by the client cleanup pass.
 
 ## License
 
